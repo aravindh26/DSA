@@ -1,6 +1,6 @@
 public class CommonFunctions {
 
-    public void getstring(string a)
+    public void getstring(String a)
     {
         System.out.print("Hi"+a);
     }
